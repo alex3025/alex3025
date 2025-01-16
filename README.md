@@ -7,10 +7,10 @@ Currently, I work as a _system administrator_ for a large steel manufacturing au
 
 In my free time, I like to mess around with my _homelab_ or play video games.
 
-Even though I would never do it professionally, I really enjoy programming and creating little hobby projects.<br>
-You can check out some of them here on GitHub (currently, I mostly code internal tools to help me in my job).
+Even though I would never do it professionally, I really enjoy programming and creating projects occasionally.<br>
+You can check out some of my public ones here on GitHub (currently, I mostly code _secret_ internal tools to help me in my job).
 
-I've tried to list below some of my current skills _(I like those colored badges)_ 😄
+I've tried&trade; to list below some of my current (mostly programming) skills using those nice colored badges 😄
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -50,3 +50,6 @@ I've tried to list below some of my current skills _(I like those colored badges
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white&style=for-the-badge)
+
+
+###### _There are more, but some badges were not available! 🤷‍♂️_
